@@ -27,7 +27,7 @@ This project implements an API server for querying bank branches and their detai
 
 ## ⏱ Time Taken
 
-- Total time spent: **4 hours**
+- Total time spent: **3 hours**
 
 ---
 
